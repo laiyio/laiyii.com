@@ -115,11 +115,11 @@
 保存把路径改一下，其他根据情况，默认就行了，点击完成
 
 <img src="https://raw.githubusercontent.com/laiyio/laiyii.com/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/AS_install_20.png" style="zoom:67%;" />
-　
+
 等待构建项目，直至右下角进度条没有，就算完成了
 
 <img src="https://raw.githubusercontent.com/laiyio/laiyii.com/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/AS_install_21.png" style="zoom: 50%;" />
-　
+
 构建完成的项目如下如所示
 
 <img src="https://raw.githubusercontent.com/laiyio/laiyii.com/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/AS_install_22.png" style="zoom:50%;" />
@@ -128,16 +128,14 @@
 
 <img src="https://raw.githubusercontent.com/laiyio/laiyii.com/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/AS_install_23.png" style="zoom:67%;" />
 
-
 模拟器能正常开机，就可以了
 
 <img src="https://raw.githubusercontent.com/laiyio/laiyii.com/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/AS_install_24.png" style="zoom:67%;" />
 
-　
 我们打开设置文件，查看Android SDK目录里面，是否有着4个选项都是勾的除了第3个不一样，其他都一样
 
 <img src="https://raw.githubusercontent.com/laiyio/laiyii.com/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/AS_install_25.png" style="zoom:67%;" />
-　
+
 我们关闭项目重新启动，再看看是否能重新启动，能，就说明软件安装成功了，恭喜你！！！
 
 如有其他问题请留言
