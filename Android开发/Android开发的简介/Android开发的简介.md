@@ -1,8 +1,8 @@
 ### Android的简介：
 
 　　Android是一种基于Linux 内核和其他开源软件的修改版本的移动操作系统，主要为智能手机和平板电脑等触摸屏移动设备设计。Android是由一个被称为开放手机联盟的开发者联盟开发的，并由Google 提供商业赞助。它于 2007 年 11 月亮相，第一款商用 Android 设备HTC Dream于 2008 年 9 月推出。
-<img src="https://raw.githubusercontent.com/laiyio/img/4bde7d4ec1ca9b8d7f208303d94f0e0ee64769ea/laiyii.com/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E7%9A%84%E7%AE%80%E4%BB%8B/Android.png" alt="img" style="zoom:50%;" />
 
+<img src="https://github.com/laiyio/laiyii.com/blob/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E7%9A%84%E7%AE%80%E4%BB%8B/Android.png" alt="img" style="zoom:50%;" />
 
 ### Android的发展史：
 
@@ -49,8 +49,8 @@
 ### Android的平台架构：
 
 　　Android系统构架，主要从高到低分为4层，依次是Android应用层，Android应用框架层，Android系统运行库层和Linux内核层。
-　　
-<img src="https://raw.githubusercontent.com/laiyio/img/main/laiyii.com/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E7%9A%84%E7%AE%80%E4%BB%8B/pintaijiagou.png" alt="pintaijiagou" style="zoom:50%;" />
+
+<img src="https://github.com/laiyio/laiyii.com/blob/main/Android%E5%BC%80%E5%8F%91/Android%E5%BC%80%E5%8F%91%E7%9A%84%E7%AE%80%E4%BB%8B/pintaijiagou.png" alt="pintaijiagou" style="zoom:50%;" />
 
 ##### 1.Android应用层：
 
